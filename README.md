@@ -1,6 +1,6 @@
 # 0x00. ES6 Basics
 
-These projects are centred aroung ECMAScript 2015 also known as ES6 and ECMAScrpt6
+These projects are centred around ECMAScript 2015 also known as ES6 and ECMAScrpt6
 
 ## Learning Objectives
 * Introduction to ES6 is
