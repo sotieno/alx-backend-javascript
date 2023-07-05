@@ -29,7 +29,7 @@ module.exports = {
   overrides: [
     {
       files: ['*.js'],
-      excludedFiles: 'babel.config.js',
+      excludedFiles: ['babel.config.js', '.eslintrc.js', '.gitignore'],
     },
   ],
 };
