@@ -1,4 +1,5 @@
-# Backend Specialization
+# Backend Specialization - Javascript
+
 ## Projects
 
 * [0x00-ES6_basic](0x00-ES6_basic)
