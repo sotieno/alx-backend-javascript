@@ -14,4 +14,13 @@ Node.js has revolutionized the way web applications are built, enabling the use 
 * Use ES6 with Node JS with Babel-node
 * Use Nodemon to develop faster
 
+## Required files
+ 
+ * database.csv
+ * package.json
+ * babel.config.js
+ * .eslintrc.js
+
+ Note: Run ```$ npm install``` when you have ```package.json```
+
 
