@@ -2,7 +2,7 @@ import AppController from '../controllers/AppController';
 import StudentsController from '../controllers/StudentsController';
 
 /**
- *  Links the routes 
+ *  Links the routes
  *    a) / to AppController
  *    b) /students to StudentsController
  *    c) /students/:major to StudentsController
